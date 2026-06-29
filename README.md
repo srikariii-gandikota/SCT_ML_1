@@ -74,4 +74,5 @@ The project:
 
 ## Author
 
-Srikari
+Srikari Gandikota
+
